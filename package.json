@@ -1,0 +1,48 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@iconscout/unicons": "^4.2.0",
+    "@inertiajs/vue3": "^2.1.2",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.11.0",
+    "bootstrap": "^5.3.7",
+    "chart.js": "^4.5.0",
+    "dayjs": "^1.11.15",
+    "driver.js": "^1.3.6",
+    "echarts": "^6.0.0",
+    "fast-glob": "^3.3.3",
+    "feather-icons": "^4.29.2",
+    "fontawesome": "^5.6.3",
+    "glob": "^11.0.3",
+    "is_js": "^0.9.0",
+    "js-cookie": "^3.0.5",
+    "list.js": "^2.3.1",
+    "lodash": "^4.17.21",
+    "phoenix": "^1.8.0",
+    "simplebar": "^6.3.2",
+    "swiper": "^11.2.10",
+    "vanilla-cookieconsent": "^3.1.0",
+    "vue": "^3.5.20",
+    "vue-i18n": "^11.1.11",
+    "ziggy-js": "^2.5.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/postcss": "^4.1.12",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^9.2.0",
+    "laravel-vite-plugin": "^2.0.0",
+    "postcss": "^8.5.6",
+    "sass": "^1.90.0",
+    "sass-embedded": "^1.90.0",
+    "tailwindcss": "4.1.12",
+    "vite": "^7.1.3"
+  }
+}
