@@ -44,9 +44,9 @@ export default defineConfig({
       },
     }),
   ],
-  
+
   optimizeDeps: {
-    exclude: ["echarts"]
+    exclude: ['echarts'],
   },
 
   build: {
@@ -54,7 +54,6 @@ export default defineConfig({
       include: [/node_modules/],
     },
   },
-  
   resolve: {
     alias: {
       '@': resolve(__dirname, 'resources/js'),

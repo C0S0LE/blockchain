@@ -177,7 +177,7 @@
                 Implementa sistemas de reciclaje blockchain en tu empresa.
                 Reduce costos operativos hasta un 40% mientras generas tokens WRC.
               </p>
-              <ul class="list-unstyled text-start mb-4">
+              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>Auditoría gratuita de residuos</li>
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>ROI garantizado en 6 meses</li>
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>Certificación ISO 14001</li>
@@ -188,8 +188,7 @@
                   <span class="badge bg-success fs-6 px-3 py-2">🔥 OFERTA LIMITADA: 50% DESC</span>
                 </div>
                 <a href="#contacto-enterprise" class="wrc-btn wrc-btn--primary w-100">
-                  <i class="fas fa-rocket"></i>
-                  Solicitar Demo Ejecutiva
+                  <i class="fas fa-rocket"></i> Solicitar Demo Ejecutiva
                 </a>
               </div>
             </div>
@@ -212,7 +211,7 @@
                 Convierte tus residuos industriales en una fuente de ingresos.
                 Tecnología blockchain que procesa hasta 10 toneladas/día.
               </p>
-              <ul class="list-unstyled text-start mb-4">
+              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Instalación completa incluida</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Soporte 24/7 especializado</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Contratos de compra garantizada</li>
@@ -244,7 +243,7 @@
                 Conviértete en franquiciado oficial de World Recycling Coin.
                 Modelo de negocio probado con ingresos recurrentes garantizados.
               </p>
-              <ul class="list-unstyled text-start mb-4">
+              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Inversión inicial desde $50K</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Territorio exclusivo protegido</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Capacitación completa incluida</li>
@@ -352,54 +351,74 @@
 
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
-                  <span>Recompensas Reciclaje (40%)</span>
+                  <span>Treasury - Tesoreria - Venta Pública (50%)</span>
                   <span class="fw-bold">400M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
-                  <div class="progress-bar" style="width: 40%; background: var(--wrc-gold-primary);"></div>
+                  <div class="progress-bar" style="width: 50%; background: var(--wrc-gold-primary);"></div>
                 </div>
               </div>
 
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
-                  <span>Desarrollo Ecosistema (25%)</span>
+                  <span>Liquidez (20%)</span>
                   <span class="fw-bold">250M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
-                  <div class="progress-bar" style="width: 25%; background: var(--wrc-success);"></div>
+                  <div class="progress-bar" style="width: 20%; background: var(--wrc-gold-primary);"></div>
                 </div>
               </div>
 
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
-                  <span>Venta Pública (20%)</span>
+                  <span>Team (10%)</span>
                   <span class="fw-bold">200M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
-                  <div class="progress-bar" style="width: 20%; background: var(--wrc-gold-light);"></div>
+                  <div class="progress-bar" style="width: 10%; background: var(--wrc-gold-primary);"></div>
                 </div>
               </div>
 
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
-                  <span>Equipo & Asesores (10%)</span>
+                  <span>Staking (12.5%)</span>
                   <span class="fw-bold">100M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
-                  <div class="progress-bar" style="width: 10%; background: var(--wrc-gray-medium);"></div>
+                  <div class="progress-bar" style="width: 12.5%; background: var(--wrc-gold-primary);"></div>
                 </div>
               </div>
 
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
-                  <span>Reserva Estratégica (5%)</span>
+                  <span>Marketing (5%)</span>
                   <span class="fw-bold">50M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
-                  <div class="progress-bar" style="width: 5%; background: var(--wrc-dark-tertiary);"></div>
+                  <div class="progress-bar" style="width: 5%; background: var(--wrc-gold-primary);"></div>
                 </div>
               </div>
-            </div>
+
+              <div class="mb-4">
+                <div class="d-flex justify-content-between mb-2">
+                  <span>AirDrops (2.5%)</span>
+                  <span class="fw-bold">50M WRC</span>
+                </div>
+                <div class="progress mb-3" style="height: 8px;">
+                  <div class="progress-bar" style="width: 2.5%; background: var(--wrc-gold-primary);"></div>
+                </div>
+              </div>
+
+							<div class="mb-0">
+								<div class="d-flex justify-content-between mb-2">
+									<span>Supply Total (100%)</span>
+									<span class="fw-bold">400.000.000 WRC</span>
+								</div>
+								<div class="progress mb-3" style="height: 8px;">
+									<div class="progress-bar" style="width: 100%; background: var(--wrc-gold-primary);"></div>
+								</div>
+							</div>
+						</div>
           </div>
 
           <div class="col-lg-6">
@@ -409,54 +428,54 @@
               </h4>
 
               <div class="mb-4">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="wrc-feature-icon me-3" style="width: 40px; height: 40px;">
+                <div class="d-flex align-items-center">
+                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
                     <i class="fas fa-coins"></i>
                   </div>
                   <div>
-                    <h6 class="fw-bold mb-1">Recompensas por Reciclaje</h6>
+                    <h6 class="fw-bold mb-1 text-start">Recompensas por Reciclaje</h6>
                     <small class="text-muted">Gana WRC por cada kg reciclado</small>
                   </div>
                 </div>
               </div>
 
               <div class="mb-4">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="wrc-feature-icon me-3" style="width: 40px; height: 40px;">
+                <div class="d-flex align-items-center">
+                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
                     <i class="fas fa-vote-yea"></i>
                   </div>
                   <div>
-                    <h6 class="fw-bold mb-1">Gobernanza DAO</h6>
+                    <h6 class="fw-bold mb-1 text-start">Gobernanza DAO</h6>
                     <small class="text-muted">Vota en decisiones del protocolo</small>
                   </div>
                 </div>
               </div>
 
               <div class="mb-4">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="wrc-feature-icon me-3" style="width: 40px; height: 40px;">
+                <div class="d-flex align-items-center">
+                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
                     <i class="fas fa-percentage"></i>
                   </div>
                   <div>
-                    <h6 class="fw-bold mb-1">Staking Rewards</h6>
+                    <h6 class="fw-bold mb-1 text-start">Staking Rewards</h6>
                     <small class="text-muted">Hasta 12% APY por hacer staking</small>
                   </div>
                 </div>
               </div>
 
               <div class="mb-4">
-                <div class="d-flex align-items-center mb-3">
-                  <div class="wrc-feature-icon me-3" style="width: 40px; height: 40px;">
+                <div class="d-flex align-items-center">
+                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
                     <i class="fas fa-store"></i>
                   </div>
                   <div>
-                    <h6 class="fw-bold mb-1">Marketplace</h6>
+                    <h6 class="fw-bold mb-1 text-start">Marketplace</h6>
                     <small class="text-muted">Compra productos eco-friendly</small>
                   </div>
                 </div>
               </div>
 
-              <div class="text-center mt-4">
+              <div class="text-center mt-5">
                 <div class="p-3 rounded"
                   style="background: rgba(255, 215, 0, 0.1); border: 1px solid rgba(255, 215, 0, 0.3);">
                   <div class="fw-bold mb-2" style="color: var(--wrc-gold-primary);">
