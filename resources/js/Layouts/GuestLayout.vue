@@ -481,7 +481,7 @@ a:hover {
 /* Revolutionary Features Grid */
 .wrc-features {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   gap: var(--space-2xl);
   margin-block: var(--space-4xl);
 }
