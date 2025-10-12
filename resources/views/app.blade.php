@@ -17,7 +17,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/img/favicons/favicon.ico') }}">
   <link rel="manifest" href="{{ asset('assets/img/favicons/manifest.json') }}">
   <meta name="msapplication-TileImage" content="{{ asset('assets/img/favicons/mstile-150x150.png') }}">
-  <meta name="theme-color" content="##0a0a0ae6">
+  <meta name="theme-color" content="#0a0a0ae6">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
