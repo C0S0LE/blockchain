@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="login-url" content="{{ route('login') }}">
+  <meta name="login-url" content="{{ route('sign-in') }}">
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
   <!-- ===============================================-->
@@ -17,7 +17,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/img/favicons/favicon.ico') }}">
   <link rel="manifest" href="{{ asset('assets/img/favicons/manifest.json') }}">
   <meta name="msapplication-TileImage" content="{{ asset('assets/img/favicons/mstile-150x150.png') }}">
-  <meta name="theme-color" content="#ffffff">
+  <meta name="theme-color" content="##0a0a0ae6">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">

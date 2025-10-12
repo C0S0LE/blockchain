@@ -7,17 +7,20 @@ import icon from '@template/assets/img/icons/icon-wrc.png';
 		<div class="wrc-container">
 			<div class="wrc-footer-grid">
 				<div>
+
 					<div class="d-flex align-items-center gap-3 mb-4">
 						<img :src="icon" alt="WRC Logo" style="height: 40px;">
 						<span class="fw-bold fs-4" style="color: var(--wrc-gold-primary);">
 							World Recycling Coin
 						</span>
 					</div>
-					<p class="text-muted mb-4">
+
+					<p class="text-muted mb-4 text-center text-md-start">
 						Revolucionando el reciclaje con tecnología blockchain.
 						Construyendo un futuro sostenible, un token a la vez.
 					</p>
-					<div class="d-flex gap-3">
+
+					<div class="d-flex align-items-center justify-content-center justify-content-md-start gap-3">
 						<a href="https://twitter.com/GeaWrc" target="_blank" class="text-muted">
 							<i class="fab fa-twitter fa-lg"></i>
 						</a>
