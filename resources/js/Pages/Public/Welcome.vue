@@ -1,31 +1,32 @@
 <script setup>
-  import { onMounted } from 'vue'
-  import { route } from 'ziggy-js'
+import { onMounted } from 'vue'
+import { route } from 'ziggy-js'
 
-  // Componentes que usas
-  import AnimateCounters from '@/components/Animations/AnimateCounters.vue'
-  import Particles from '@/components/Animations/Particles.vue'
-  import GuestLayout from '@/Layouts/GuestLayout.vue'
+// Componentes que usas
+import AnimateCounters from '@/components/Animations/AnimateCounters.vue'
+import Particles from '@/components/Animations/Particles.vue'
+import GuestLayout from '@/Layouts/GuestLayout.vue'
 
-  // Assets
-  import logoIMG from '@template/assets/img/icons/icon-wrc.png'
+// Assets
+import logoIMG from '@template/assets/img/icons/icon-wrc.png'
+import { Link } from '@inertiajs/vue3';
 
-  const initSmoothScrolling = () => {
-    const anchors = document.querySelectorAll('a[href^="#"]')
-    anchors.forEach(anchor => {
-      anchor.addEventListener('click', e => {
-        e.preventDefault()
-        const target = document.querySelector(anchor.getAttribute('href'))
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' })
-        }
-      })
-    })
-  }
+const initSmoothScrolling = () => {
+	const anchors = document.querySelectorAll('a[href^="#"]')
+	anchors.forEach(anchor => {
+		anchor.addEventListener('click', e => {
+			e.preventDefault()
+			const target = document.querySelector(anchor.getAttribute('href'))
+			if (target) {
+				target.scrollIntoView({ behavior: 'smooth', block: 'start' })
+			}
+		})
+	})
+}
 
-  onMounted(() => {
-    initSmoothScrolling();
-  });
+onMounted(() => {
+	initSmoothScrolling();
+});
 
 </script>
 
@@ -46,14 +47,14 @@
             </p>
 
             <div class="d-flex flex-column flex-md-row gap-3 mb-4">
-              <a href="#gea-wrc" class="wrc-btn wrc-btn--primary">
+              <Link :href="route('sign-in')" class="wrc-btn wrc-btn--primary p-4 px-5">
                 <i class="fas fa-coins"></i>
                 Ganar Tokens WRC
-              </a>
-              <a href="#demo" class="wrc-btn wrc-btn--secondary">
+              </Link>
+              <!-- <a href="#demo" class="wrc-btn wrc-btn--secondary">
                 <i class="fas fa-play"></i>
                 Ver Demo
-              </a>
+              </a> -->
             </div>
           </div>
 

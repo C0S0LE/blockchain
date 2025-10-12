@@ -1,5 +1,5 @@
 <script setup>
-import { Head } from '@inertiajs/vue3';
+import { Head, Link } from '@inertiajs/vue3';
 import { useRTL } from '@/plugins/RTLPlugin';
 import { onMounted, ref } from 'vue';
 
@@ -9,7 +9,6 @@ import bgImageCard from '@template/assets/img/bg/38.png';
 // import illustrationsAuthDark from '@template/assets/img/spot-illustrations/auth-dark.png';
 
 import illustrationsAuth from '@template/assets/img/logos/logo-wrc.png';
-
 import CustonTemplate from '@/components/CustonTemplate.vue';
 
 const { handleRTL } = useRTL();
@@ -43,7 +42,8 @@ onMounted(() => {
                   <div class="bg-holder" :style="{ backgroundImage: `url(${bgImageCard})` }"></div>
                   <div class="position-relative px-4 px-lg-7 pt-7 pb-7 pb-sm-5 text-center text-md-start pb-lg-7 pb-md-7">
                     <h3 class="mb-3 text-body-emphasis fs-7">
-                      <span style="color: var(--phoenix-yellow)">WRC</span> Autenticación
+											<Link style="color: var(--phoenix-yellow)" :href="route('welcome')">WRC</Link>
+											Autenticación
                     </h3>
                     <p class="text-body-tertiary">¡Regálese un proceso de desarrollo sin complicaciones con la singularidad de TOKEN WRC!</p>
                     <ul class="list-unstyled mb-0 w-max-content w-md-auto">

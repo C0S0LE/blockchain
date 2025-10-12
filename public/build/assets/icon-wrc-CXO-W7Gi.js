@@ -1,0 +1,1 @@
+import{r,L as n,b as a,j as c,C as l,g as s,o as u}from"./app-BPbURMbA.js";const i={__name:"PrimaryButton",setup(p){const e=r(null),t=n();return(o,b)=>(u(),a("button",l({ref_key:"button",ref:e,type:"button",class:["btn",{"disabled opacity-50":s(t).disabled}]},s(t)),[c(o.$slots,"default")],16))}},d="/build/assets/icon-wrc-Dk3enkv0.png";export{i as _,d as l};

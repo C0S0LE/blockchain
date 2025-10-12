@@ -9,8 +9,6 @@ use App\Http\Controllers\Views\Wallet\Crypto\CryptoController;
 use App\Http\Controllers\Views\WelcomeModalController;
 use Illuminate\Support\Facades\Route;
 
-
-
 Route::redirect('/', 'welcome');
 Route::get('/welcome', [PublicViewController::class, 'welcome'])->name('welcome');
 

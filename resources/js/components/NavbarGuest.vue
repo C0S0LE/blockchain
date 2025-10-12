@@ -75,9 +75,9 @@ onUnmounted(() => {
           <a v-if="user?.hashid" :href="route('panel.dashboard')" class="wrc-btn wrc-btn--primary">
             <i class="fas fa-rocket"></i> Dashboard
           </a>
-          <LinkNavigate v-else :href="route('sign-up')" class="wrc-btn wrc-btn--primary">
+          <Link v-else :href="route('sign-up')" class="wrc-btn wrc-btn--primary">
             <i class="fas fa-rocket"></i> Únete Ahora
-          </LinkNavigate>
+          </Link>
         </div>
       </div>
     </div>

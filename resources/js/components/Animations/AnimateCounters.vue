@@ -60,18 +60,18 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="wrc-stats">
-    <div class="wrc-stat">
-      <span class="wrc-stat-number" data-count="1000000">0</span>
-      <span class="wrc-stat-label">Tokens Minados</span>
-    </div>
-    <div class="wrc-stat">
-      <span class="wrc-stat-number" data-count="2500000">0</span>
-      <span class="wrc-stat-label">Kg Reciclados</span>
-    </div>
-    <div class="wrc-stat">
-      <span class="wrc-stat-number" data-count="2500">0</span>
-      <span class="wrc-stat-label">Usuarios Activos</span>
-    </div>
-  </div>
+	<div class="wrc-stats">
+		<div class="wrc-stat">
+			<span class="wrc-stat-number" data-count="10000000">0</span>
+			<span class="wrc-stat-label">AirDrops</span>
+		</div>
+		<div class="wrc-stat">
+			<span class="wrc-stat-number" data-count="1180000">0</span>
+			<span class="wrc-stat-label">Kg Reciclados</span>
+		</div>
+		<div class="wrc-stat">
+			<span class="wrc-stat-number" data-count="2500">0</span>
+			<span class="wrc-stat-label">Usuarios Activos</span>
+		</div>
+	</div>
 </template>
