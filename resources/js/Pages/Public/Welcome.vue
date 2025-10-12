@@ -177,7 +177,7 @@
                 Implementa sistemas de reciclaje blockchain en tu empresa.
                 Reduce costos operativos hasta un 40% mientras generas tokens WRC.
               </p>
-              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
+              <ul class="list-unstyled text-center text-md-start mb-4 md-5">
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>Auditoría gratuita de residuos</li>
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>ROI garantizado en 6 meses</li>
                 <li class="mb-2 text-white"><i class="fas text-success fa-check me-2"></i>Certificación ISO 14001</li>
@@ -185,7 +185,7 @@
               </ul>
               <div class="mt-auto">
                 <div class="mb-3">
-                  <span class="badge bg-success fs-6 px-3 py-2">🔥 OFERTA LIMITADA: 50% DESC</span>
+                  <span class="badge bg-success fs-6 px-3 py-2 w-100">🔥 OFERTA LIMITADA: 50% DESC</span>
                 </div>
                 <a href="#contacto-enterprise" class="wrc-btn wrc-btn--primary w-100">
                   <i class="fas fa-rocket"></i> Solicitar Demo Ejecutiva
@@ -211,7 +211,7 @@
                 Convierte tus residuos industriales en una fuente de ingresos.
                 Tecnología blockchain que procesa hasta 10 toneladas/día.
               </p>
-              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
+              <ul class="list-unstyled text-center text-md-start mb-4 md-5">
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Instalación completa incluida</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Soporte 24/7 especializado</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Contratos de compra garantizada</li>
@@ -219,9 +219,7 @@
               </ul>
               <div class="mt-auto">
                 <div class="mb-3">
-                  <span class="badge bg-danger fs-6 px-3 py-2">
-                    ⚡ ÚLTIMAS 5 PLAZAS DISPONIBLES
-                  </span>
+                  <span class="badge bg-danger fs-6 px-3 py-2 w-100">⚡ ÚLTIMAS 5 PLAZAS DISPONIBLES</span>
                 </div>
                 <a href="#contacto-industrial" class="wrc-btn wrc-btn--primary w-100">
                   <i class="fas fa-cogs"></i>
@@ -243,7 +241,7 @@
                 Conviértete en franquiciado oficial de World Recycling Coin.
                 Modelo de negocio probado con ingresos recurrentes garantizados.
               </p>
-              <ul class="list-unstyled text-center text-md-start mb-4 ps-3">
+              <ul class="list-unstyled text-center text-md-start mb-4 md-5">
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Inversión inicial desde $50K</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Territorio exclusivo protegido</li>
                 <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Capacitación completa incluida</li>
@@ -251,9 +249,7 @@
               </ul>
               <div class="mt-auto">
                 <div class="mb-3">
-                  <span class="badge bg-warning text-dark fs-6 px-3 py-2">
-                    💎 OPORTUNIDAD ÚNICA
-                  </span>
+                  <span class="badge bg-warning text-dark fs-6 px-3 py-2 w-100">💎 OPORTUNIDAD ÚNICA</span>
                 </div>
                 <a href="#contacto-franquicia" class="wrc-btn wrc-btn--primary w-100">
                   <i class="fas fa-crown"></i>
