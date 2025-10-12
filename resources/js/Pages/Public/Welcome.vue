@@ -168,7 +168,7 @@
 
         <div class="row g-4 mb-5">
           <div class="col-lg-4">
-            <div class="wrc-card h-100 text-center">
+            <div class="wrc-card enterprise-card h-100 text-center">
               <div class="wrc-feature-icon mx-auto mb-4">
                 <i class="fas fa-building"></i>
               </div>
@@ -195,7 +195,7 @@
           </div>
 
           <div class="col-lg-4">
-            <div class="wrc-card h-100 text-center" style="border: 2px solid var(--wrc-gold-primary); transform: scale(1.05);">
+            <div class="wrc-card enterprise-card h-100 text-center" style="border: 2px solid var(--wrc-gold-primary); transform: scale(1.05);">
               <div class="position-absolute top-0 start-50 translate-middle">
                 <span class="badge" style="background: var(--wrc-gold-primary); color: var(--wrc-dark-primary); font-size: 0.8rem; padding: 0.5rem 1rem;">
                   MÁS POPULAR
@@ -230,7 +230,7 @@
           </div>
 
           <div class="col-lg-4">
-            <div class="wrc-card h-100 text-center">
+            <div class="wrc-card enterprise-card h-100 text-center">
               <div class="wrc-feature-icon mx-auto mb-4">
                 <i class="fas fa-handshake"></i>
               </div>
