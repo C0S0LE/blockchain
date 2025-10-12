@@ -44,9 +44,6 @@ const createNeuralNetwork = () => {
 onMounted(() => {
   createNeuralNetwork();
 })
-
-console.log("object");
-
 </script>
 
 <template>

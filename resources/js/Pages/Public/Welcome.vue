@@ -352,7 +352,7 @@
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>Treasury - Tesoreria - Venta Pública (50%)</span>
-                  <span class="fw-bold">400M WRC</span>
+                  <span class="fw-bold">200M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 50%; background: var(--wrc-gold-primary);"></div>
@@ -362,7 +362,7 @@
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>Liquidez (20%)</span>
-                  <span class="fw-bold">250M WRC</span>
+                  <span class="fw-bold">80M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 20%; background: var(--wrc-gold-primary);"></div>
@@ -372,7 +372,7 @@
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>Team (10%)</span>
-                  <span class="fw-bold">200M WRC</span>
+                  <span class="fw-bold">40M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 10%; background: var(--wrc-gold-primary);"></div>
@@ -412,7 +412,7 @@
 							<div class="mb-0">
 								<div class="d-flex justify-content-between mb-2">
 									<span>Supply Total (100%)</span>
-									<span class="fw-bold">400.000.000 WRC</span>
+									<span class="fw-bold">400M WRC</span>
 								</div>
 								<div class="progress mb-3" style="height: 8px;">
 									<div class="progress-bar" style="width: 100%; background: var(--wrc-gold-primary);"></div>
@@ -423,72 +423,104 @@
 
           <div class="col-lg-6">
             <div class="wrc-card h-100">
-              <h4 class="fw-bold mb-4" style="color: var(--wrc-gold-primary);">
-                Utilidad del Token
-              </h4>
+              <h4 class="fw-bold mb-4" style="color: var(--wrc-gold-primary);">Utilidad del Token</h4>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-coins"></i>
+											</div>
+											<div>
+												<h6 class="fw-bold mb-1 text-start">Recompensas por Reciclaje</h6>
+												<small class="text-muted">Gana WRC por cada kg reciclado</small>
+											</div>
+										</div>
+									</div>
 
-              <div class="mb-4">
-                <div class="d-flex align-items-center">
-                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
-                    <i class="fas fa-coins"></i>
-                  </div>
-                  <div>
-                    <h6 class="fw-bold mb-1 text-start">Recompensas por Reciclaje</h6>
-                    <small class="text-muted">Gana WRC por cada kg reciclado</small>
-                  </div>
-                </div>
-              </div>
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-vote-yea"></i>
+											</div>
+											<div>
+												<h6 class="fw-bold mb-1 text-start">Gobernanza DAO</h6>
+												<small class="text-muted">Vota en decisiones del protocolo</small>
+											</div>
+										</div>
+									</div>
 
-              <div class="mb-4">
-                <div class="d-flex align-items-center">
-                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
-                    <i class="fas fa-vote-yea"></i>
-                  </div>
-                  <div>
-                    <h6 class="fw-bold mb-1 text-start">Gobernanza DAO</h6>
-                    <small class="text-muted">Vota en decisiones del protocolo</small>
-                  </div>
-                </div>
-              </div>
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-percentage"></i>
+											</div>
+											<div>
+												<h6 class="fw-bold mb-1 text-start">Staking Rewards</h6>
+												<small class="text-muted">Hasta 12% APY por hacer staking</small>
+											</div>
+										</div>
+									</div>
 
-              <div class="mb-4">
-                <div class="d-flex align-items-center">
-                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
-                    <i class="fas fa-percentage"></i>
-                  </div>
-                  <div>
-                    <h6 class="fw-bold mb-1 text-start">Staking Rewards</h6>
-                    <small class="text-muted">Hasta 12% APY por hacer staking</small>
-                  </div>
-                </div>
-              </div>
-
-              <div class="mb-4">
-                <div class="d-flex align-items-center">
-                  <div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
-                    <i class="fas fa-store"></i>
-                  </div>
-                  <div>
-                    <h6 class="fw-bold mb-1 text-start">Marketplace</h6>
-                    <small class="text-muted">Compra productos eco-friendly</small>
-                  </div>
-                </div>
-              </div>
-
-              <div class="text-center mt-5">
-                <div class="p-3 rounded"
-                  style="background: rgba(255, 215, 0, 0.1); border: 1px solid rgba(255, 215, 0, 0.3);">
-                  <div class="fw-bold mb-2" style="color: var(--wrc-gold-primary);">
-                    Precio Actual WRC
-                  </div>
-                  <div class="display-6 fw-bold" style="color: var(--wrc-white);">
-                    $0.0847
-                  </div>
-                  <div class="small" style="color: rgb(50 241 152);">
-                    <i class="fas fa-arrow-up"></i> +24.7% (24h)
-                  </div>
-                </div>
-              </div>
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-store"></i>
+											</div>
+											<div>
+												<h6 class="fw-bold mb-1 text-start">Marketplace</h6>
+												<small class="text-muted">Compra productos eco-friendly</small>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-shop"></i>
+											</div>
+											<div class="text-start">
+												<h6 class="fw-bold mb-1 text-start">Comercio P2P en la página GEA</h6>
+												<small class="text-muted">--</small>
+											</div>
+										</div>
+									</div>
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-exchange"></i>
+											</div>
+											<div class="text-start">
+												<h6 class="fw-bold mb-1 text-start">Cambio por el par el PancakeSwap</h6>
+												<small class="text-muted">[WRC / USDT] [WRC / USDC] [WRC / BNB]</small>
+											</div>
+										</div>
+									</div>
+									<div class="mb-4">
+										<div class="d-flex align-items-center">
+											<div class="wrc-feature-icon me-3 m-0" style="width: 40px; height: 40px;">
+												<i class="fas fa-bag-shopping"></i>
+											</div>
+											<div class="text-start">
+												<h6 class="fw-bold mb-1 text-start">Compra de productos en la tienda WRC</h6>
+												<small class="text-muted">--</small>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="text-center mt-5">
+								<div class="p-3 rounded" style="background: rgba(255, 215, 0, 0.1); border: 1px solid rgba(255, 215, 0, 0.3);">
+									<div class="fw-bold mb-2" style="color: var(--wrc-gold-primary);">
+										Precio Actual WRC
+									</div>
+									<div class="display-6 fw-bold" style="color: var(--wrc-white);">$0.01 USDT</div>
+									<div class="small" style="color: rgb(50 241 152);">
+										<i class="fas fa-arrow-up"></i> +24.7% (24h)
+									</div>
+								</div>
+							</div>
             </div>
           </div>
         </div>
@@ -535,10 +567,6 @@
           </div>
 
           <div class="d-flex flex-column flex-md-row gap-3 justify-content-center">
-            <a href="#app" class="wrc-btn wrc-btn--primary">
-              <i class="fas fa-mobile-alt"></i>
-              Descargar App
-            </a>
             <a href="#whitepaper" class="wrc-btn wrc-btn--secondary">
               <i class="fas fa-file-alt"></i>
               Leer documento técnico
