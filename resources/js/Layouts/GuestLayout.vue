@@ -356,6 +356,10 @@ a:hover {
   backdrop-filter: blur(20px);
   position: relative;
   /* overflow: hidden; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
   transition: all var(--transition-normal);
 }
 
