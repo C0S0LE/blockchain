@@ -379,7 +379,7 @@ onMounted(() => {
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>Staking (12.5%)</span>
-                  <span class="fw-bold">100M WRC</span>
+                  <span class="fw-bold">50M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 12.5%; background: var(--wrc-gold-primary);"></div>
@@ -389,7 +389,7 @@ onMounted(() => {
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>Marketing (5%)</span>
-                  <span class="fw-bold">50M WRC</span>
+                  <span class="fw-bold">20M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 5%; background: var(--wrc-gold-primary);"></div>
@@ -399,7 +399,7 @@ onMounted(() => {
               <div class="mb-4">
                 <div class="d-flex justify-content-between mb-2">
                   <span>AirDrops (2.5%)</span>
-                  <span class="fw-bold">50M WRC</span>
+                  <span class="fw-bold">10M WRC</span>
                 </div>
                 <div class="progress mb-3" style="height: 8px;">
                   <div class="progress-bar" style="width: 2.5%; background: var(--wrc-gold-primary);"></div>
